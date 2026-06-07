@@ -7,9 +7,19 @@ No telemetry, fully open source.
 
 ## Screenshots
 
-![Calendar Timer Screenshot 1](assets/images/screenshots/screenshot1.png)
-![Calendar Timer Screenshot 2](assets/images/screenshots/screenshot2.png)
-![Calendar Timer Screenshot 3](assets/images/screenshots/screenshot3.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/images/screenshots/screenshot1.png" alt="Calendar Timer Screenshot 1" width="200"/>
+    </td>
+    <td align="center">
+      <img src="assets/images/screenshots/screenshot2.png" alt="Calendar Timer Screenshot 2" width="200"/>
+    </td>
+    <td align="center">
+      <img src="assets/images/screenshots/screenshot3.png" alt="Calendar Timer Screenshot 3" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ## Development
 
